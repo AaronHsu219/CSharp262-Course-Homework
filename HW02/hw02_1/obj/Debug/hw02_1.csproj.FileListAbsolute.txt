@@ -1,0 +1,8 @@
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\bin\Debug\hw02_1.exe.config
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\bin\Debug\hw02_1.exe
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\bin\Debug\hw02_1.pdb
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\bin\Debug\hw02Library.dll
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\bin\Debug\hw02Library.pdb
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\obj\Debug\hw02_1.csprojResolveAssemblyReference.cache
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\obj\Debug\hw02_1.exe
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02_1\obj\Debug\hw02_1.pdb

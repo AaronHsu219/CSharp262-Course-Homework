@@ -1,0 +1,5 @@
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02Library\obj\Debug\hw02Library.csprojResolveAssemblyReference.cache
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02Library\bin\Debug\hw02Library.dll
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02Library\bin\Debug\hw02Library.pdb
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02Library\obj\Debug\hw02Library.dll
+D:\STUDY\NTUCS_CS262\HW\HW02_Intro\HW02\hw02Library\obj\Debug\hw02Library.pdb
