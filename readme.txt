@@ -1,15 +1,15 @@
-HW01 - Unrepeated Random Numbers [2015-12-05]
+ï»¿HW01 - Unrepeated Random Numbers [2015-12-05]
 
 Hw02 -
-ªì¾ÇªÌ¤Jªù§@·~:
-¦bArray¤¤ ¹ê§@°ò¥»¸ê®Æ³B²z:
-1. ¹ê§@Sum() method: ±N¤º³¡ªºvalues¥[°_¨Ó±o¨ìÁ`©M
-2. ¹ê§@Cusum() method(Ãş¦ümatlab cusum): ±N¼Æ¦r²Ö¥[°_¨Ó
-¨Ò¦p:­ì¥»¬O {1,2,4,8} ---> { 1,3,7,15}
-3. ¹ê§@Add(double value): ¹ï¨C­Ó¤¸¯À¥[¤@­Ó¼Æ¦r
-4. ¹ê§@Sub(double value): ¹ï¨C­Ó¤¸¯À´î¤@­Ó¼Æ¦r
-5. ¹ê§@Multiply(double value): ¹ï¨C­Ó¤¸¯Àµ{¤@­Ó¼Æ¦r
-6. ¹ê§@Div(double value): ¹ï¨C­Ó¤¸¯À°£¤@­Ó¼Æ¦r
-7. ¤W­z¤èªk¯à°÷chaining·N§Y:
-¥i¥H¹ê²{Ãş¦ü³o¼Ëªº¾Ş§@
+åˆå­¸è€…å…¥é–€ä½œæ¥­:
+åœ¨Arrayä¸­ å¯¦ä½œåŸºæœ¬è³‡æ–™è™•ç†:
+1. å¯¦ä½œSum() method: å°‡å…§éƒ¨çš„valuesåŠ èµ·ä¾†å¾—åˆ°ç¸½å’Œ
+2. å¯¦ä½œCusum() method(é¡ä¼¼matlab cusum): å°‡æ•¸å­—ç´¯åŠ èµ·ä¾†
+ä¾‹å¦‚:åŸæœ¬æ˜¯ {1,2,4,8} ---> { 1,3,7,15}
+3. å¯¦ä½œAdd(double value): å°æ¯å€‹å…ƒç´ åŠ ä¸€å€‹æ•¸å­—
+4. å¯¦ä½œSub(double value): å°æ¯å€‹å…ƒç´ æ¸›ä¸€å€‹æ•¸å­—
+5. å¯¦ä½œMultiply(double value): å°æ¯å€‹å…ƒç´ ç¨‹ä¸€å€‹æ•¸å­—
+6. å¯¦ä½œDiv(double value): å°æ¯å€‹å…ƒç´ é™¤ä¸€å€‹æ•¸å­—
+7. ä¸Šè¿°æ–¹æ³•èƒ½å¤ chainingæ„å³:
+å¯ä»¥å¯¦ç¾é¡ä¼¼é€™æ¨£çš„æ“ä½œ
 numbers.Add(1).Sub(4).Multiply(10).Sum()
